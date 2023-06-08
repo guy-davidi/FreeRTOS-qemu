@@ -72,3 +72,4 @@ please refer to the official FreeRTOS documentation or the specific demo documen
 - This guide assumes a Linux environment, specifically Ubuntu 20.04. The steps and commands may differ for other operating systems.
 
 - QEMU offers a wide range of options and configurations. You can explore the QEMU documentation for more advanced usage and customization options.
+
